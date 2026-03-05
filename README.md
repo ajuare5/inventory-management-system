@@ -14,8 +14,8 @@ Arturo Juarez Jr.
 
 ## Repository Structure
 ```
-├── Juarez_Arturo_FP.py             # Main entry point and program logic
-├── Juarez_Arturo_FP_Functions.py   # Core helper functions
+├── main.py                         # Main entry point and program logic
+├── functions.py                    # Core helper functions
 ├── inventory.py                    # Inventory item class definition
 ├── transactionitem.py              # Transaction class definition
 └── Inventory.txt                   # Sample inventory data file
